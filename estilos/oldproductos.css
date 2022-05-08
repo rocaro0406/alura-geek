@@ -1,0 +1,13 @@
+.products {
+    background: #E5E5E5;
+}
+
+.formulario__boton input {
+    width: 160px;
+    height: 50px;
+    background: #2A7AE4;
+    color: aliceblue;
+    border: none;
+    margin: 0px 0px 0px 100px;
+    justify-items: center;
+}

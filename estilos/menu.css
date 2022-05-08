@@ -1,0 +1,50 @@
+    .menu .logo {
+        width: 70%;
+        text-align: right;
+    }
+    
+    .logo img {
+        width: 150px;
+        margin: 20px 0px 20px 20px;
+    }
+    
+    .buscar {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+        height: 60px;
+        width: 100%;
+        text-align: center;
+        background: #F5F5F5;
+        border: none;
+        border-radius: 30px;
+        padding: 10px;
+    }
+    
+    .buscar .buscar_texto {
+        width: 100%;
+        border: none;
+        background: none;
+    }
+    
+    .buscar .buscar_texto i {
+        color: dimgray;
+    }
+    
+    .icon-search {
+        color: dimgray;
+    }
+    
+    .login {
+        text-align: right;
+    }
+    
+    .btn-login {
+        width: 100px;
+        height: 40px;
+        border-color: #2A7AE4;
+        font-size: 18px;
+        color: #2A7AE4;
+        background: none;
+    }
